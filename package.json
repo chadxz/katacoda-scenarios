@@ -1,0 +1,20 @@
+{
+  "name": "katacoda-scenarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadxz/katacoda-scenarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "volta": {
+    "node": "16.13.2",
+    "npm": "8.3.1"
+  },
+  "devDependencies": {
+    "katacoda-cli": "^0.0.24"
+  }
+}
